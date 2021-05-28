@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Gowtham Krishna
+## Electrical and Electronics Engineer
+###### A budding Engineer
